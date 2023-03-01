@@ -1,0 +1,15 @@
+.top_navbar_container{
+  height: 107px;
+  background: #FFFFFF;
+border: 1px solid #F3F3F3;
+
+}
+.menu_list{
+  width: 52px;
+  height: 48px;
+
+  background: #FFFFFF;
+  box-shadow: -4px 0px 11px 7px rgba(245, 245, 245, 0.49);
+  border-radius: 10px;
+
+}
